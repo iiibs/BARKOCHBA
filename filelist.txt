@@ -1,0 +1,4 @@
+..\BARKOCHBA\MainWebForm.aspx
+..\BARKOCHBA\MainWebForm.aspx.cs
+..\BARKOCHBA\BARKOCHBA.dll
+..\BARKOCHBA\Web.config
